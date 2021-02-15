@@ -1,1 +1,1 @@
-# sample.io
+# github.io
